@@ -1,0 +1,1 @@
+print('LONG LIVE THE MING')
